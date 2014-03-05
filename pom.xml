@@ -21,5 +21,12 @@
         </dependency>
     </dependencies>
 
+    <repositories>
+        <repository>
+            <id>mvn-neo4j</id>
+            <url>http://m2.neo4j.org/content/groups/everything</url>
+        </repository>
+    </repositories>
+
 
 </project>
